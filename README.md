@@ -1,5 +1,5 @@
 
-# Lightweight Stylistic Consistency Profiling: Robust Detection of Machine-Generated Texts
+# Lightweight Stylistic Consistency Profiling: Robust Detection of LLM-Generated Textual Content for Multimedia Moderation
 
 This repository contains the code for a robust method for detecting machine-generated texts by leveraging stylistic consistency analysis. The approach combines discrete stylistic indicators and continuous representations to detect machine-generated content across multiple domains. 
 
